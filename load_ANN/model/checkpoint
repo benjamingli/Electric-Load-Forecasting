@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/songling/load_ANN/model/model.ckpt-4001"
+all_model_checkpoint_paths: "/home/songling/load_ANN/model/model.ckpt-2001"
+all_model_checkpoint_paths: "/home/songling/load_ANN/model/model.ckpt-2501"
+all_model_checkpoint_paths: "/home/songling/load_ANN/model/model.ckpt-3001"
+all_model_checkpoint_paths: "/home/songling/load_ANN/model/model.ckpt-3501"
+all_model_checkpoint_paths: "/home/songling/load_ANN/model/model.ckpt-4001"
